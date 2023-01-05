@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## About Me
 - 🔎 I am actively searching for software engineering poistions, ideally hybrid remote and in person.
 - 
+
+
+-->
+
