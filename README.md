@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey! 👋 Justin here...
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,ruby,rails,postgresql,mongodb,git)](https://skills.thijs.gg)
 
@@ -21,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🔎 I am actively searching for software engineering poistions, ideally hybrid remote and in person.
+- 
