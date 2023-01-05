@@ -3,7 +3,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,ruby,rails,postgresql,mongodb,git)](https://skills.thijs.gg)
 
-![Thatmoonman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatmoonman&show_icons=true&theme=tokyonight)
+![Thatmoonman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatmoonman&show_icons=true&theme=synthwave)
 
 <!--
 **Thatmoonman/Thatmoonman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
