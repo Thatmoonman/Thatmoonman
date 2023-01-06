@@ -1,6 +1,7 @@
 ### Hey! 👋 Justin here...
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,ruby,rails,postgresql,mongodb,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,ruby,rails,nodejs,aws,postgresql,mongodb,git&perline=3)](https://skillicons.dev)
 
 ![Thatmoonman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatmoonman&show_icons=true&theme=synthwave)
 
