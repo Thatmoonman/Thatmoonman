@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatmoonman&show_icons=true&theme=synthwave&count_private=true)](https://github.com/thatmoonman/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatmoonman)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatmoonman&layout=compact&count_private=true)](https://github.com/Thatmoonman/github-readme-stats)
 <!--
 **Thatmoonman/Thatmoonman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
